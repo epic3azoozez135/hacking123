@@ -4346,4 +4346,4 @@ client.on('message', message => {
 
 
 
-client.login('') // عزوز هون توكن البوت
+client.login('NTI5NDM5NTU2MjE5NDM3MDU2.Dww2ig.2aGM-wcAq4yGwFipBqg6WyskI_U') // عزوز هون توكن البوت
